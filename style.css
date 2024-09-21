@@ -7,6 +7,18 @@
 body{
     background: #222;
 }
+#nav{
+    background-color: wheat;
+    
+    
+
+    
+    
+}
+#nav a {
+    text-decoration: none;
+    padding-right: 20px;
+}
 .card{
     width: 90%;
     max-width: 470px;
